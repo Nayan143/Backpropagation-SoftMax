@@ -42,8 +42,8 @@ Without mini-batching,it needs to reduce the learning-rate to λ = 0:01 to avoid
 
 
 You may play with more difficult datasets by downloading CIFAR10 and CIFAR100 from the following URLs:
-https://omnomnom.vision.rwth-aachen.de/data/cifar10.tgz
-https://omnomnom.vision.rwth-aachen.de/data/cifar100.tgz
+- https://omnomnom.vision.rwth-aachen.de/data/cifar10.tgz
+- https://omnomnom.vision.rwth-aachen.de/data/cifar100.tgz
 
 
 Train a deeper network on the MNIST dataset. For example, the following network architecture: Linear(28 ∗ 28; 200), Tanh, Linear(200; 10), SoftMax should get you
